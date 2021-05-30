@@ -1,37 +1,18 @@
 ## ESBR CTF KnowLedge Base
 
-You can use the [editor on GitHub](https://github.com/EatSleepBlobRepeat/EatSleepBlobRepeat.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 1, Personal Growth
+1.Establish personal direction and identify corresponding shortcomings in relation to the job content:
+- Do u understand the work of the leading experts in the field?
+- Are you familiar with the relevant network protocols and file formats?
+- Have the relevant techniques and key tools been seen and used?
+2. Reading is just the starting point of learning, you can't stop the learning process at reading.
+- While learning about old bugs/vulns you must debug it, understand the meaning/usage of someone else's code, and then try rewrite an exploit on your own.
+# 2, Establishing learning reference objectives
+1.Peers/people have same age with you who are better than you
+- Read their articles and other results to see in detail how they learn and work.
+2. Experts in your interested field/direction
+- Learn about their growth and track what content they are following.
+# 3, Manage your learning, work and life well. 
+1.Learning, work and life are contradictory and unified.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EatSleepBlobRepeat/EatSleepBlobRepeat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2.All three require time and you only have 24 hours in a day: The solution to this is efficiency. 
